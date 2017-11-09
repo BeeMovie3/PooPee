@@ -1,0 +1,12 @@
+h1, h2	{
+	text-align: center;
+	color: #e68d65;
+	font-family: "Arial", sans-serif;
+	}
+*	{
+	background-color: #a1d3e3
+	}
+body	{
+	background-image: url ("");
+	background-repeat: no-repeat;
+	}
